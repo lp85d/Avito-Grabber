@@ -13,6 +13,6 @@ Avito Grabber — это эффективный инструмент для ав
 Что не так с IP
 С него идёт очень много запросов — как если бы вы разом открывали десятки вкладок или слишком часто обновляли страницу.
 Обычно такое бывает, когда одним IP пользуются несколько человек. Например, если ваш провайдер объединяет абонентов в подсети, вы открываете сайт с рабочего компьютера или пользуетесь VPN. Также причина может быть в расширениях браузера и вирусах.
-### Soft.7z
+### Soft.7z pip install pandas requests beautifulsoup4 loguru customtkinter gspread oauth2client
 ![image](https://github.com/user-attachments/assets/cf8c4aab-2f5b-4f6c-a075-53e1dddaac4d)
 ![image](https://github.com/user-attachments/assets/6719841c-c32f-4a52-a204-4d8e3f8a1a85)
