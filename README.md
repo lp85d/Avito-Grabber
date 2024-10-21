@@ -16,3 +16,6 @@ Avito Grabber — это эффективный инструмент для ав
 ### Soft.7z pip install pandas requests beautifulsoup4 loguru customtkinter gspread oauth2client
 ![image](https://github.com/user-attachments/assets/cf8c4aab-2f5b-4f6c-a075-53e1dddaac4d)
 ![image](https://github.com/user-attachments/assets/6719841c-c32f-4a52-a204-4d8e3f8a1a85)
+
+### Новая версия AvitoLinkParser.py
+![image](https://github.com/user-attachments/assets/7f114082-b743-4e96-9bde-f7d85418ed69)
