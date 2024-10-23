@@ -20,7 +20,7 @@ Avito Grabber — это эффективный инструмент для ав
 ### Новая версия [AvitoLinkParser.py](https://github.com/lp85d/Avito-Grabber/blob/main/AvitoLinkParser.7z)
 ![image](https://github.com/user-attachments/assets/7f114082-b743-4e96-9bde-f7d85418ed69)
 
-### Изменения: AvitoLinkParser_NEW
+### Изменения: [AvitoLinkParser_NEW.py](https://github.com/lp85d/Avito-Grabber/blob/main/AvitoLinkParser_NEW.7z)
 Добавлена переменная retry_attempts, которая определяет количество попыток перезагрузки страницы, если на ней не найдено объявлений.
 Внутри цикла по страницам добавлен еще один цикл, который пытается повторить запрос страницы до двух раз с задержкой, указанной в переменной delay.
 Если после всех попыток страницы все еще пусты, программа завершает парсинг этой страницы и переходит к следующей.
