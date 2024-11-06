@@ -28,3 +28,9 @@ Avito Grabber — это эффективный инструмент для ав
 Если после всех попыток страницы все еще пусты, программа завершает парсинг этой страницы и переходит к следующей.
 
 Теперь программа будет пытаться дважды перезагрузить страницу, если объявления не загрузились с первого раза.
+
+C:\Windows\System32>cd C:\Users\user\Desktop\Soft
+
+C:\Users\user\Desktop\Soft>pyinstaller --onefile --add-data "avitolinkparser-f92b970c7daa.json;." AvitoLinkParser.py
+
+44658 INFO: Building EXE from EXE-00.toc completed successfully.
