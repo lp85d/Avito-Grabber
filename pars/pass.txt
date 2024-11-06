@@ -1,1 +1,10 @@
 Мой
+=IMPORTXML(A2; "//h1")
+
+C:\Windows\System32>
+
+E:\Users\lp85d\AppData\Local\Programs\Python\Python312\python.exe C:\Users\user\Desktop\parsH1.py
+2024-11-06 14:39:23.749 | INFO     | __main__:collect_data:66 - Обработана ссылка https://elec.samodelkin-mag.ru/stiralnyie-mashinyi/krestovinyi/krestovina-dlya-stiralnyix-mashin-bosch-siemens с H1: 215117 Крестовина для стиральных машин Bosch Siemens и HTML содержимым: <div class="product-content wide"><span>Длина вала 116 мм </span></div>
+2024-11-06 14:39:26.145 | INFO     | __main__:collect_data:72 - Данные успешно собраны и сохранены в C:\Users\user\Desktop\url_h1.csv
+
+C:\Windows\System32>
