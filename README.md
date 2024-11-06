@@ -29,6 +29,7 @@ Avito Grabber — это эффективный инструмент для ав
 
 Теперь программа будет пытаться дважды перезагрузить страницу, если объявления не загрузились с первого раза.
 
+### Компилируем exe
 C:\Windows\System32>cd C:\Users\user\Desktop\Soft
 
 C:\Users\user\Desktop\Soft>pyinstaller --onefile --add-data "avitolinkparser-f92b970c7daa.json;." AvitoLinkParser.py
