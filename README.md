@@ -35,3 +35,14 @@ C:\Windows\System32>cd C:\Users\user\Desktop\Soft
 C:\Users\user\Desktop\Soft>pyinstaller --onefile --add-data "avitolinkparser-f92b970c7daa.json;." AvitoLinkParser.py
 
 44658 INFO: Building EXE from EXE-00.toc completed successfully.
+
+### Create Project
+https://console.cloud.google.com/apis/credentials?project
+Create Project
+Create credentials
+Service account
+Create and continue
+Keys 
+Add key 
+Create new key 
+JSON
