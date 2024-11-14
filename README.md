@@ -38,11 +38,19 @@ C:\Users\user\Desktop\Soft>pyinstaller --onefile --add-data "avitolinkparser-f92
 
 ### Create Project
 https://console.cloud.google.com/apis/credentials?project
+
 Create Project
+
 Create credentials
+
 Service account
+
 Create and continue
+
 Keys 
+
 Add key 
+
 Create new key 
+
 JSON
