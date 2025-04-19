@@ -1,6 +1,8 @@
 pip install selenium
 https://sites.google.com/chromium.org/driver/downloads
 В конце &p=1 или ?cd=1&p=
+
+https://www.avito.ru/all/predlozheniya_uslug/stroitelstvo/fasadnye_raboty-ASgBAgICAkSYC6Cf8QLejw~AnosD?cd=1
 https://www.avito.ru/all/predlozheniya_uslug/remont_i_otdelka-ASgBAgICAUSYC8CfAQ?p=2&q=текст+ещё
 
 Решение с urlparse и urlencode будет работать в обоих случаях:
