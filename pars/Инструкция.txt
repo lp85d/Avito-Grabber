@@ -1,4 +1,8 @@
 pip install selenium
 https://sites.google.com/chromium.org/driver/downloads
 В конце &p=1 или ?cd=1&p=
-https://www.avito.ru/all/predlozheniya_uslug/remont_i_otdelka-ASgBAgICAUSYC8CfAQ?p=2&q=%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F+%D1%88%D1%82%D1%83%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%BA%D0%B0
+https://www.avito.ru/all/predlozheniya_uslug/remont_i_otdelka-ASgBAgICAUSYC8CfAQ?p=2&q=текст+ещё
+
+Решение с urlparse и urlencode будет работать в обоих случаях:
+✅ Если в BASE_URL уже есть ?p=..., он будет заменён на нужное значение.
+✅ Если p отсутствует, он будет добавлен корректно, независимо от наличия других параметров (q=..., cd=1, и т.д.).
