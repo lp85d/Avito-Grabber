@@ -1,2 +1,3 @@
 pip install selenium
 https://sites.google.com/chromium.org/driver/downloads
+В конце &p=1 или ?cd=1&p=
