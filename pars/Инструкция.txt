@@ -5,6 +5,7 @@ https://sites.google.com/chromium.org/driver/downloads
 
 В конце &p=1 или ?cd=1&p= или &p= 
 или в середине ?p=2
+вот как надо ?p=1&q=
 
 https://www.avito.ru/all/predlozheniya_uslug/stroitelstvo/fasadnye_raboty-ASgBAgICAkSYC6Cf8QLejw~AnosD?cd=1
 https://www.avito.ru/all/predlozheniya_uslug/remont_i_otdelka-ASgBAgICAUSYC8CfAQ?p=2&q=текст+ещё
